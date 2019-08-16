@@ -6,7 +6,7 @@
     #       TUN draws Tunisia flag
     #       TUR draws Turkey flag
     #       LBY draws Libya flag
-    #       SGP draws singapore flag
+    #       SGP draws Singapore flag
     #       ALL draws all the flags on the screen 
     #       main function interacts with user with what flag they want to draw
     #       Q prints a message and terminates the loop
