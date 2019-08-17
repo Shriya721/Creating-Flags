@@ -1,6 +1,4 @@
 ###########################################################
-    #  Computer Project #11
-    #
     #  Algorithm
     #    user enters a user id to generate an EgoNet
     #    reprompts if user does not enter correct id
